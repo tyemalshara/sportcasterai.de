@@ -1,8 +1,11 @@
+
 #
+
+<a name="readme-top"></a>
 
 <div align="center">
   <div align="center">
-    <img src="./sportcasterai-hero-logo.svg" alt="SportCasterAI Logo" />
+    <img src="./sportcasterai-hero-logo.svg" alt="SportCasterAI Logo" width="70" height="70" />
   </div>
   <h3 align="center">SportCasterAI Landing Page</h3>
   <p align="center">
@@ -26,7 +29,7 @@
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
-## About the Project {#about-the-project}
+## About the Project
 
 Landing page for [SportCasterAI](https://tyemalshara.github.io/sportcasterai.de/), the AI-Powered Sport analysis tool of sports content. This product is managed by [Taim](https://github.com/tyemalshara).
 
@@ -47,10 +50,10 @@ Landing page for [SportCasterAI](https://tyemalshara.github.io/sportcasterai.de/
 
 [Back to top](#section) 
 
-##### Contact {#contact}
+## Contact
 
 - Taim - [@github/tyemalshara](https://github.com/tyemalshara)
-- [![discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&.svg)][discord][discord]: https://discord.gg/s6P4jVMu7f
+- [![discord][discord]][discord-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,6 +67,8 @@ Landing page for [SportCasterAI](https://tyemalshara.github.io/sportcasterai.de/
 [heroku-url]: https://www.heroku.com/
 [githubpages]: https://img.shields.io/badge/GitHub_Pages-blue?style=for-the-badge&logo=githubpages
 [githubpages-url]: https://pages.github.com
+[discord]: https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord
+[discord-url]: https://discord.gg/s6P4jVMu7f
 
 
 
